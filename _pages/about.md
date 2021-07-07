@@ -9,7 +9,7 @@ redirect_from:
 ---
 My name is Minhua Lin (林敏华), I am an incoming PhD Student in [Deapartment of Computer Science](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I am fortunate to be advisored by Prof. [Shiqing Ma](https://www.cs.rutgers.edu/~sm2283/). My research interests lie at AI security, especially graph adversarial learning.
 
-I received my Bachelor of Engineering's degree from [School of Computer Science and Technology](http://english.cs.hust.edu.cn/) at [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2021. During my undergraduate year, I worked as a research assistant at Big Data Intelligence Lab, supervised by Prof. Pan Zhou. 
+I received my Bachelor degree of Engineering from [School of Computer Science and Technology](http://english.cs.hust.edu.cn/) at [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2021. During my undergraduate years, I worked as a research assistant at Big Data Intelligence Lab, supervised by Prof. Pan Zhou. 
 
 
 News
