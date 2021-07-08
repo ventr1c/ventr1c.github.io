@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Computer Science and Technology, Huazhong University of Science and Technology, 2017-2021
 * Ph.D in Computer Science, Rutgers University, 2021-2026 (expected)
+* B.Eng. in Computer Science and Technology, Huazhong University of Science and Technology, 2017-2021
+
 
 Work experience
 ======
