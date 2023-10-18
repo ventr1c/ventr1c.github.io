@@ -12,7 +12,7 @@ I am a second-year PhD student in [the College of Information Sciences and Techn
 News
 ======
 * [2023-09] one paper is accepted to NeurIPS 2023.
-
+* [2023-02] one paper is accepted to WWW 2023.
 Preprints
 ======
 * Binghui Wang\*, <b>Minhua Lin</b>\*, Tianxiang Zhou\*, Pan Zhou, Ang Li, Meng Pang, Cai Fu, Hai Li, Yiran Chen (\*Equal contribution). "Evasion Attacks to Graph Neural Networks via Influence Function" [[paper]((https://arxiv.org/pdf/2009.00203.pdf))]
