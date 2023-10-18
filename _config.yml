@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Minhua Lin"
 title_separator          : "-"
 name                     : &name "Minhua Lin"
-description              : &description "PhD student in CS@Rutgers"
+description              : &description "PhD student in Penn State"
 url                      : https://ventr1c.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ventr1c.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Minhua Lin"
-  avatar           : "profile.png"
+  avatar           : # "profile.png"
   bio              : "PhD student in CS@Rutgers"
-  location         : "Piscataway, NJ 08854"
+  location         : "The Pennsylvania State University, IST"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "minhua.lin@rutgers.edu"
+  googlescholar    : https://scholar.google.com/citations?user=qLjk9gIAAAAJ&hl=en
+  email            : "mfl5681@psu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
