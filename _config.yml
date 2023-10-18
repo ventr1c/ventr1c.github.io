@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Minhua Lin"
   avatar           : # "profile.png"
-  bio              : "PhD student in CS@Rutgers"
-  location         : "The Pennsylvania State University, IST"
+  bio              : "PhD student in IST@Penn State"
+  # location         : "The Pennsylvania State University, IST"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?user=qLjk9gIAAAAJ&hl=en
