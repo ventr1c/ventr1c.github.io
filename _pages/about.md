@@ -19,6 +19,6 @@ Preprints
 
 Publications
 ======
-* <b>Minhua Lin</b>, Teng Xiao, Enyan Dai, Xiang Zhang, Suhang Wang. "Certifiably Robust Graph Contrastive Learning" Accepted by NeurIPS 2023 (NeurIPS 2023) [[paper](https://arxiv.org/pdf/2310.03312.pdf), [code](https://github.com/ventr1c/RES-GCL)]
+* <b>Minhua Lin</b>, Teng Xiao, Enyan Dai, Xiang Zhang, Suhang Wang. "Certifiably Robust Graph Contrastive Learning" Accepted by Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023) [[paper](https://arxiv.org/pdf/2310.03312.pdf), [code](https://github.com/ventr1c/RES-GCL)]
 
 * Enyan Dai\*, <b>Minhua Lin</b>\*, Xiang Zhang, Suhang Wang (\*Equal contribution). "Unnoticeable Backdoor Attacks on Graph Neural Networks" Accepted by Proceedings of the ACM Web Conference 2023 (WWW 2023) [[paper](https://arxiv.org/pdf/2303.01263.pdf), [code](https://github.com/ventr1c/UGBA)]
