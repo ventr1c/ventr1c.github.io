@@ -17,7 +17,7 @@ News
 
 Preprints
 ======
-* Binghui Wang\*, <b>Minhua Lin</b>\*, Tianxiang Zhou\*, Pan Zhou, Ang Li, Meng Pang, Cai Fu, Hai Li, Yiran Chen (\*Equal contribution). "Evasion Attacks to Graph Neural Networks via Influence Function" [[paper]((https://arxiv.org/pdf/2009.00203.pdf))]
+* Binghui Wang\*, <b>Minhua Lin</b>\*, Tianxiang Zhou\*, Pan Zhou, Ang Li, Meng Pang, Cai Fu, Hai Li, Yiran Chen (\*Equal contribution). "Evasion Attacks to Graph Neural Networks via Influence Function" [[paper](https://arxiv.org/pdf/2009.00203.pdf)]
 
 Publications
 ======
