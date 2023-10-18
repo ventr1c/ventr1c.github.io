@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year PhD student in [the College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisors are [Prof. Suhang Wang](https://suhangwang.ist.psu.edu/) and [Prof. Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). I received my bachelor degree of engineering from [School of Computer Science and Technology](http://english.cs.hust.edu.cn/) at [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2021. My research interests lie in data mining, graph neural networks and trustworthy machine learning.
+I am a second-year PhD student in [the College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisors are [Prof. Suhang Wang](https://suhangwang.ist.psu.edu/) and [Prof. Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). I received my bachelor degree of engineering in Computer Science from [School of Computer Science and Technology](http://english.cs.hust.edu.cn/) in 2021. My research interests lie in data mining, graph neural networks and trustworthy machine learning.
 
 News
 ======
