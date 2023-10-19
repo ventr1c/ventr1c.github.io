@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Minhua Lin"
-  # avatar           : # "profile.png"
+  avatar           : # "profile.png"
   bio              : "PhD student in IST@Penn State"
   location         : # "The Pennsylvania State University, IST"
   employer         :
