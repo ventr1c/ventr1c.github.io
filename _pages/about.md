@@ -11,7 +11,7 @@ I am a second-year PhD student in [the College of Information Sciences and Techn
 
 News
 ======
-* [2023-09] one paper is accepted to WSDM 2024.
+* [2023-10] one paper is accepted to WSDM 2024.
 * [2023-09] one paper is accepted to NeurIPS 2023.
 * [2023-05] Pass my qualifying exam and become a Ph.D. candidate.
 * [2023-01] one paper is accepted to WWW 2023.
