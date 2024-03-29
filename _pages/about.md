@@ -27,3 +27,4 @@ Publications
 * Binghui Wang\*, <b>Minhua Lin</b>\*, Tianxiang Zhou, Pan Zhou, Ang Li, Meng Pang, Cai Fu, Hai Li, Yiran Chen (<b>\* indicates equal contribution</b>). "Efficient, Direct, and Restricted Black-Box Graph Evasion Attacks to Any-Layer Graph Neural Networks via Influence Function" Accepted by 17th ACM International Conference on Web Search and Data Mining <b>(WSDM 2024)</b> [[paper](), [code](https://github.com/ventr1c/InfAttack)]
 
 * Enyan Dai\*, <b>Minhua Lin</b>\*, Xiang Zhang, Suhang Wang (<b>\* indicates equal contribution</b>). "Unnoticeable Backdoor Attacks on Graph Neural Networks" Accepted by Proceedings of the ACM Web Conference 2023  <b>(WWW 2023)</b> [[paper](https://arxiv.org/pdf/2303.01263.pdf), [code](https://github.com/ventr1c/UGBA)]
+
