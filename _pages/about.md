@@ -24,6 +24,6 @@ Publications
 ======
 * <b>Minhua Lin</b>, Teng Xiao, Enyan Dai, Xiang Zhang, Suhang Wang. "Certifiably Robust Graph Contrastive Learning" Accepted by Thirty-seventh Conference on Neural Information Processing Systems <b>(NeurIPS 2023)</b> [[paper](https://arxiv.org/pdf/2310.03312.pdf), [code](https://github.com/ventr1c/RES-GCL)]
 
-* <b>Minhua Lin</b>\*, Binghui Wang\*, Tianxiang Zhou, Pan Zhou, Ang Li, Meng Pang, Cai Fu, Hai Li, Yiran Chen (<b>\* indicates equal contribution</b>). "Efficient, Direct, and Restricted Black-Box Graph Evasion Attacks to Any-Layer Graph Neural Networks via Influence Function" Accepted by 17th ACM International Conference on Web Search and Data Mining <b>(WSDM 2024)</b> [[paper](), [code](https://github.com/ventr1c/InfAttack)]
+* Binghui Wang\*, <b>Minhua Lin</b>\*, Tianxiang Zhou, Pan Zhou, Ang Li, Meng Pang, Cai Fu, Hai Li, Yiran Chen (<b>\* indicates equal contribution</b>). "Efficient, Direct, and Restricted Black-Box Graph Evasion Attacks to Any-Layer Graph Neural Networks via Influence Function" Accepted by 17th ACM International Conference on Web Search and Data Mining <b>(WSDM 2024)</b> [[paper](), [code](https://github.com/ventr1c/InfAttack)]
 
 * Enyan Dai\*, <b>Minhua Lin</b>\*, Xiang Zhang, Suhang Wang (<b>\* indicates equal contribution</b>). "Unnoticeable Backdoor Attacks on Graph Neural Networks" Accepted by Proceedings of the ACM Web Conference 2023  <b>(WWW 2023)</b> [[paper](https://arxiv.org/pdf/2303.01263.pdf), [code](https://github.com/ventr1c/UGBA)]
