@@ -29,4 +29,4 @@ Publications
 * Enyan Dai\*, <b>Minhua Lin</b>\*, Xiang Zhang, Suhang Wang (<b>\* indicates equal contribution</b>). "Unnoticeable Backdoor Attacks on Graph Neural Networks" Accepted by Proceedings of the ACM Web Conference 2023  <b>(WWW 2023)</b> [[paper](https://arxiv.org/pdf/2303.01263.pdf), [code](https://github.com/ventr1c/UGBA)]
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=zUxGgAIvkBYGrseqx5YpoohUQRcYWPzLzUQw5ubd6nY&co=8d5ce0&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=zUxGgAIvkBYGrseqx5YpoohUQRcYWPzLzUQw5ubd6nY'></script>
