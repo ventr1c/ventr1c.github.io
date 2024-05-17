@@ -11,10 +11,11 @@ I am a second-year PhD student in [the College of Information Sciences and Techn
 
 News
 ======
-* [2023-10] one paper is accepted to WSDM 2024.
-* [2023-09] one paper is accepted to NeurIPS 2023.
+* [2024-05] One paper is accepted to KDD 2024.
+* [2023-10] One paper is accepted to WSDM 2024.
+* [2023-09] One paper is accepted to NeurIPS 2023.
 * [2023-05] Pass my qualifying exam and become a Ph.D. candidate.
-* [2023-01] one paper is accepted to WWW 2023.
+* [2023-01] One paper is accepted to WWW 2023.
 
 <!-- Preprints
 ====== -->
@@ -22,6 +23,7 @@ News
 
 Publications
 ======
+* Zhiwei Zhang, <b>Minhua Lin</b>, Enyan Dai, Suhang Wang. "Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective" Accepted by Thirty SIGKDD Conference on Knowledge Discovery and Data Mining <b>(KDD 2024)</b> [[paper]()]
 * <b>Minhua Lin</b>, Teng Xiao, Enyan Dai, Xiang Zhang, Suhang Wang. "Certifiably Robust Graph Contrastive Learning" Accepted by Thirty-seventh Conference on Neural Information Processing Systems <b>(NeurIPS 2023)</b> [[paper](https://arxiv.org/pdf/2310.03312.pdf), [code](https://github.com/ventr1c/RES-GCL)]
 
 * Binghui Wang\*, <b>Minhua Lin</b>\*, Tianxiang Zhou, Pan Zhou, Ang Li, Meng Pang, Cai Fu, Hai Li, Yiran Chen (<b>\* indicates equal contribution</b>). "Efficient, Direct, and Restricted Black-Box Graph Evasion Attacks to Any-Layer Graph Neural Networks via Influence Function" Accepted by 17th ACM International Conference on Web Search and Data Mining <b>(WSDM 2024)</b> [[paper](), [code](https://github.com/ventr1c/InfAttack)]
