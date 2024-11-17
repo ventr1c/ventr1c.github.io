@@ -42,11 +42,9 @@ Selected Publications
 
 * <b>Minhua Lin</b>\*, Zhiwei Zhang\*, Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang (<b>\* indicates equal contribution</b>). "Trojan Prompt Attacks on Graph Neural Networks" [[paper](https://arxiv.org/abs/2410.13974)]
 
-* Zhiwei Zhang, <b>Minhua Lin</b>, Junjie Xu, Zongyu Wu, Enyan Dai, Suhang Wang. "Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural Networks" [[paper](https://arxiv.org/abs/2406.09836)]
-
 * Enyan Dai\*, <b>Minhua Lin</b>\*, Suhang Wang (<b>\* indicates equal contribution</b>). "PreGIP: Watermarking the Pretraining of Graph Neural Networks for Deep Intellectual Property Protection" [[paper](https://arxiv.org/abs/2402.04435)]
 
-
+* Zhiwei Zhang, <b>Minhua Lin</b>, Junjie Xu, Zongyu Wu, Enyan Dai, Suhang Wang. "Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural Networks" [[paper](https://arxiv.org/abs/2406.09836)]
 
 <div style="margin-top: 50px;"></div>
 
