@@ -11,16 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Rutgers University, 2021-2026 (expected)
+* Ph.D in Informatics, The Pennsylvania State University, 2022-2027 (expected)
 * B.Eng. in Computer Science and Technology, Huazhong University of Science and Technology, 2017-2021
 
 
-Work experience
-======
-* Fall 2019 - Spring 2021: Research Assistant
-  * Huazhong University of Science and Technology
-  * Duties included: Adversarial machine learning
-  * Supervisor: Professor Pan Zhou
 
 <!-- * Fall 2015: Research Assistant
   * Github University
