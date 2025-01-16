@@ -24,7 +24,7 @@ I am a third-year PhD student in [the College of Information Sciences and Techno
 * NeurIPS Scholar Award of 2023.
 
 ## Service
-**Reviewer & Program Committee**: WWW (2024, 2025), ICLR (2025), KDD (2024, 2025), NeurIPS (2023, 2024), EMNLP (2024), MM (2024), SIGIR (2024), PAKDD (2024), WSDM (2023), CIKM (2024, 2023), RecSys (2024, 2023), TKDE (2023), TKDD (2023)
+**Reviewer & Program Committee**: ICML (2025), WWW (2024, 2025), ICLR (2025), KDD (2024, 2025), NeurIPS (2023, 2024), EMNLP (2024), MM (2024), SIGIR (2024), PAKDD (2024), WSDM (2023), CIKM (2024, 2023), RecSys (2024, 2023), TKDE (2023), TKDD (2023)
 <!-- Preprints
 ====== -->
 
