@@ -34,6 +34,7 @@ author_profile: true
 ## Conference Papers
 ### 2025
 * <b>Minhua Lin</b>, Enyan Dai, Junjie Xu, Jinyuan Jia, Xiang Zhang, Suhang Wang. "Stealing Training Graphs from Graph Neural Networks" In 31th SIGKDD Conference on Knowledge Discovery and Data Mining <b>(KDD 2025)</b> [[paper](https://arxiv.org/abs/2411.11197), [code]()]
+* Zhengpin Li, <b>Minhua Lin</b>, Jian Wang, Suhang Wang. "Fairness-aware Prompt Tuning for Graph Neural Networks" In Proceedings of the ACM Web Conference 2025  <b>(WWW 2025)</b> [[paper](), [code]()]
 
 ### 2024
 * Binghui Wang\*, <b>Minhua Lin</b>\*, Tianxiang Zhou, Pan Zhou, Ang Li, Meng Pang, Cai Fu, Hai Li, Yiran Chen (<b>\* indicates equal contribution</b>). "Efficient, Direct, and Restricted Black-Box Graph Evasion Attacks to Any-Layer Graph Neural Networks via Influence Function" In 17th ACM International Conference on Web Search and Data Mining <b>(WSDM 2024)</b> [[paper](), [code](https://github.com/ventr1c/InfAttack)]
