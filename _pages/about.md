@@ -11,6 +11,7 @@ I am a third-year PhD student in [the College of Information Sciences and Techno
 
 ## News
 <!-- ====== -->
+* [2025-01] One paper is accepted to ICLR 2025.
 * [2025-01] One paper is accepted to WWW 2025.
 * [2024-11] One paper is accepted to KDD 2025.
 * [2024-10] Our tutorial about ["Adversarial Robustness in Graph Neural Networks"](https://ieeexplore.ieee.org/abstract/document/10722771) is present at [DSAA 2024](https://dsaa2024.dsaa.co/program-at-a-glance.html).
