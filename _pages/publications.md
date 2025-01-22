@@ -27,13 +27,12 @@ author_profile: true
 
 * Enyan Dai\*, <b>Minhua Lin</b>\*, Suhang Wang (<b>\* indicates equal contribution</b>). "PreGIP: Watermarking the Pretraining of Graph Neural Networks for Deep Intellectual Property Protection" [[paper](https://arxiv.org/abs/2402.04435)]
 
-* Zhiwei Zhang, <b>Minhua Lin</b>, Junjie Xu, Zongyu Wu, Enyan Dai, Suhang Wang. "Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural Networks" [[paper](https://arxiv.org/abs/2406.09836)]
-
 * Junjie Xu, Zongyu Wu, <b>Minhua Lin</b>, Xiang Zhang, Suhang Wang. "LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning" [[paper](https://arxiv.org/pdf/2406.01032)]
 
 ## Conference Papers
 ### 2025
 * <b>Minhua Lin</b>, Enyan Dai, Junjie Xu, Jinyuan Jia, Xiang Zhang, Suhang Wang. "Stealing Training Graphs from Graph Neural Networks" In 31th SIGKDD Conference on Knowledge Discovery and Data Mining <b>(KDD 2025)</b> [[paper](https://arxiv.org/abs/2411.11197), [code]()]
+* Zhiwei Zhang, <b>Minhua Lin</b>, Junjie Xu, Zongyu Wu, Enyan Dai, Suhang Wang. "Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural Networks" In 13th International Conference on Learning Representations <b>(ICLR 2025)</b> [[paper](https://openreview.net/forum?id=trKNi4IUiP&noteId=MxwNrQIDhs)]
 * Zhengpin Li, <b>Minhua Lin</b>, Jian Wang, Suhang Wang. "Fairness-aware Prompt Tuning for Graph Neural Networks" In Proceedings of the ACM Web Conference 2025  <b>(WWW 2025)</b> [[paper](), [code]()]
 
 ### 2024
