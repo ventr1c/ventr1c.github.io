@@ -25,10 +25,9 @@ author_profile: true
 
 * <b>Minhua Lin</b>\*, Zhiwei Zhang\*, Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang (<b>\* indicates equal contribution</b>). "Trojan Prompt Attacks on Graph Neural Networks" [[paper](https://arxiv.org/abs/2410.13974)]
 
-* Zongyu Wu\*, Yuwei Niu\*, Hongcheng Gao, <b>Minhua Lin</b>, Zhiwei Zhang, Zhifang Zhang, Qi Shi, Yilong Wang, Sike Fu, Junjie Xu, Junjie Ao, Enyan Dai, Lei Feng, Xiang Zhang, Suhang Wang (<b>\* indicates equal contribution</b>). "LanP: Rethinking the Impact of Language Priors in Large Vision-Language Models" [[paper](https://arxiv.org/abs/2502.12359), [code](https://github.com/Wu-Zongyu/LanP), [project page](https://wu-zongyu.github.io/LanP)]
-
-
 * Enyan Dai\*, <b>Minhua Lin</b>\*, Suhang Wang (<b>\* indicates equal contribution</b>). "PreGIP: Watermarking the Pretraining of Graph Neural Networks for Deep Intellectual Property Protection" [[paper](https://arxiv.org/abs/2402.04435), [code]()]
+
+* Zongyu Wu\*, Yuwei Niu\*, Hongcheng Gao, <b>Minhua Lin</b>, Zhiwei Zhang, Zhifang Zhang, Qi Shi, Yilong Wang, Sike Fu, Junjie Xu, Junjie Ao, Enyan Dai, Lei Feng, Xiang Zhang, Suhang Wang (<b>\* indicates equal contribution</b>). "LanP: Rethinking the Impact of Language Priors in Large Vision-Language Models" [[paper](https://arxiv.org/abs/2502.12359), [code](https://github.com/Wu-Zongyu/LanP), [project page](https://wu-zongyu.github.io/LanP)]
 
 * Junjie Xu, Zongyu Wu, <b>Minhua Lin</b>, Xiang Zhang, Suhang Wang. "LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning" [[paper](https://arxiv.org/pdf/2406.01032)]
 
