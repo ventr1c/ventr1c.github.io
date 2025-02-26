@@ -21,9 +21,11 @@ author_profile: true
 * Zhichao Hou, <b>Minhua Lin</b>, MohamadAli Torkamani, Suhang Wang, Xiaorui Liu. "Adversarial Robustness in Graph Neural Networks: Recent Advances and New Frontier" In 11th IEEE International Conference on Data Science and Advanced Analytics <b>(DSAA 2024)</b> [[paper](https://ieeexplore.ieee.org/abstract/document/10722771)]
 
 ## Preprints
+* <b>Minhua Lin</b>, Hui Liu, Xianfeng Tang, Jingying Zeng, Zhenwei Dai, Chen Luo, Zheng Li, Xiang Zhang, Qi He, Suhang Wang. "How Far are LLMs from Real Search? A Comprehensive Study on Efficiency, Completeness, and Inherent Capabilities" [[paper](https://arxiv.org/abs/2502.18387)]
+* 
 * <b>Minhua Lin</b>, Zhengzhang Chen, Yanchi Liu, Xujiang Zhao, Zongyu Wu, Junxiang Wang, Xiang Zhang, Suhang Wang, Haifeng Cheng. "Decoding Time Series with LLMs: A Multi-Agent Framework for Cross-Domain Annotation" [[paper](https://arxiv.org/abs/2410.17462)]
 
-* <b>Minhua Lin</b>\*, Zhiwei Zhang\*, Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang (<b>\* indicates equal contribution</b>). "Trojan Prompt Attacks on Graph Neural Networks" [[paper](https://arxiv.org/abs/2410.13974)]
+* <b>Minhua Lin</b>\*, Zhiwei Zhang\*, Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang (<b>\* indicates equal contribution</b>). "Trojan Prompt Attacks on Graph Neural Networks" [[paper](https://arxiv.org/abs/2410.13974), [code]()]
 
 * Enyan Dai\*, <b>Minhua Lin</b>\*, Suhang Wang (<b>\* indicates equal contribution</b>). "PreGIP: Watermarking the Pretraining of Graph Neural Networks for Deep Intellectual Property Protection" [[paper](https://arxiv.org/abs/2402.04435), [code]()]
 
