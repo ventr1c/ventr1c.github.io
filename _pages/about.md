@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year PhD student in [the College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisors are [Prof. Suhang Wang](https://suhangwang.ist.psu.edu/) and [Prof. Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). I received my bachelor degree of engineering in Computer Science from [Huazhong University of Sciences and Technology](http://english.hust.edu.cn/) in 2021. My research interests lie in data mining, graph neural networks and trustworthy machine learning.
+I am a third-year PhD student in [the College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisors are [Prof. Suhang Wang](https://suhangwang.ist.psu.edu/) and [Prof. Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). I received my bachelor degree of engineering in Computer Science from [Huazhong University of Sciences and Technology](http://english.hust.edu.cn/) in 2021. My research interests lie in large language models, graph learning, trustworthy AI, and their intersections.
 
 ## News
 <!-- ====== -->
@@ -23,6 +23,7 @@ I am a third-year PhD student in [the College of Information Sciences and Techno
 * [2023-01] One paper is accepted to WWW 2023.
 
 ## Honors and Awards
+* IST College 2025 Travel Award
 * WSDM SIGIR Student Travel Award of 2024.
 * NeurIPS Scholar Award of 2023.
 
