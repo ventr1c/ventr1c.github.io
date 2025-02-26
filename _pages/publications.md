@@ -22,7 +22,7 @@ author_profile: true
 
 ## Preprints
 * <b>Minhua Lin</b>, Hui Liu, Xianfeng Tang, Jingying Zeng, Zhenwei Dai, Chen Luo, Zheng Li, Xiang Zhang, Qi He, Suhang Wang. "How Far are LLMs from Real Search? A Comprehensive Study on Efficiency, Completeness, and Inherent Capabilities" [[paper](https://arxiv.org/abs/2502.18387)]
-* 
+
 * <b>Minhua Lin</b>, Zhengzhang Chen, Yanchi Liu, Xujiang Zhao, Zongyu Wu, Junxiang Wang, Xiang Zhang, Suhang Wang, Haifeng Cheng. "Decoding Time Series with LLMs: A Multi-Agent Framework for Cross-Domain Annotation" [[paper](https://arxiv.org/abs/2410.17462)]
 
 * <b>Minhua Lin</b>\*, Zhiwei Zhang\*, Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang (<b>\* indicates equal contribution</b>). "Trojan Prompt Attacks on Graph Neural Networks" [[paper](https://arxiv.org/abs/2410.13974), [code]()]
