@@ -11,7 +11,7 @@ I am a third-year PhD student in [the College of Information Sciences and Techno
 
 ## News
 <!-- ====== -->
-* [2025-02] Check out our [benchmark about the positive role of language prior in LVLMs](https://arxiv.org/abs/2502.12359).
+* [2025-02] Check out our [benchmark](https://arxiv.org/abs/2502.12359) about the positive role of language prior in LVLMs.
 * [2025-01] One paper is accepted to ICLR 2025.
 * [2025-01] One paper is accepted to WWW 2025.
 * [2024-11] One paper is accepted to KDD 2025.
@@ -28,7 +28,7 @@ I am a third-year PhD student in [the College of Information Sciences and Techno
 * NeurIPS Scholar Award of 2023.
 
 ## Service
-**Reviewer & Program Committee**: ICML (2025), WWW (2024, 2025), ICLR (2025), KDD (2024, 2025), NeurIPS (2023, 2024， 2025), EMNLP (2024), MM (2024), SIGIR (2024), PAKDD (2024), WSDM (2023), CIKM (2024, 2023), RecSys (2024, 2023), TKDE (2023), TKDD (2023)
+**Reviewer & Program Committee**: ICML (2025), WWW (2024, 2025), ICLR (2025), KDD (2024, 2025), NeurIPS (2023, 2024， 2025), EMNLP (2024), MM (2024), SIGIR (2024, 2025), PAKDD (2024), WSDM (2023), CIKM (2024, 2023), RecSys (2024, 2023), TKDE (2023), TKDD (2023)
 <!-- Preprints
 ====== -->
 
