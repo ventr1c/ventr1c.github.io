@@ -18,7 +18,7 @@ author_profile: true
 <!-- ## Selected Publications -->
 <!-- ====== -->
 ## Tutorials
-* Fali Wang, Minhua Lin, Yao Ma, Hui Liu, Xianfeng Tang, Qi He, Jiliang Tang, Jian Pei, Suhang Wang. "A Tutorial on Small Language Models in the Era of Large Language Models: Architecture, Capabilities, and Trustworthiness" <b>(KDD 2025)</b> [[paper]()]
+* Fali Wang, <b>Minhua Lin</b>, Yao Ma, Hui Liu, Xianfeng Tang, Qi He, Jiliang Tang, Jian Pei, Suhang Wang. "A Tutorial on Small Language Models in the Era of Large Language Models: Architecture, Capabilities, and Trustworthiness" <b>(KDD 2025)</b> [[paper]()]
 * Zhichao Hou, <b>Minhua Lin</b>, MohamadAli Torkamani, Suhang Wang, Xiaorui Liu. "Adversarial Robustness in Graph Neural Networks: Recent Advances and New Frontier" In 11th IEEE International Conference on Data Science and Advanced Analytics <b>(DSAA 2024)</b> [[paper](https://ieeexplore.ieee.org/abstract/document/10722771)]
 
 ## Preprints
