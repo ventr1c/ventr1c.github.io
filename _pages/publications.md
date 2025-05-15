@@ -18,6 +18,7 @@ author_profile: true
 <!-- ## Selected Publications -->
 <!-- ====== -->
 ## Tutorials
+* Fali Wang, Minhua Lin, Yao Ma, Hui Liu, Xianfeng Tang, Qi He, Jiliang Tang, Jian Pei, Suhang Wang. "A Tutorial on Small Language Models in the Era of Large Language Models: Architecture, Capabilities, and Trustworthiness" <b>(KDD 2025)</b> [[paper]()]
 * Zhichao Hou, <b>Minhua Lin</b>, MohamadAli Torkamani, Suhang Wang, Xiaorui Liu. "Adversarial Robustness in Graph Neural Networks: Recent Advances and New Frontier" In 11th IEEE International Conference on Data Science and Advanced Analytics <b>(DSAA 2024)</b> [[paper](https://ieeexplore.ieee.org/abstract/document/10722771)]
 
 ## Preprints
@@ -25,17 +26,15 @@ author_profile: true
 
 * <b>Minhua Lin</b>, Zhengzhang Chen, Yanchi Liu, Xujiang Zhao, Zongyu Wu, Junxiang Wang, Xiang Zhang, Suhang Wang, Haifeng Cheng. "Decoding Time Series with LLMs: A Multi-Agent Framework for Cross-Domain Annotation" [[paper](https://arxiv.org/abs/2410.17462)]
 
-* <b>Minhua Lin</b>\*, Zhiwei Zhang\*, Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang (<b>\* indicates equal contribution</b>). "Trojan Prompt Attacks on Graph Neural Networks" [[paper](https://arxiv.org/abs/2410.13974), [code]()]
-
-* Enyan Dai\*, <b>Minhua Lin</b>\*, Suhang Wang (<b>\* indicates equal contribution</b>). "PreGIP: Watermarking the Pretraining of Graph Neural Networks for Deep Intellectual Property Protection" [[paper](https://arxiv.org/abs/2402.04435), [code]()]
-
 * Zongyu Wu\*, Yuwei Niu\*, Hongcheng Gao, <b>Minhua Lin</b>, Zhiwei Zhang, Zhifang Zhang, Qi Shi, Yilong Wang, Sike Fu, Junjie Xu, Junjie Ao, Enyan Dai, Lei Feng, Xiang Zhang, Suhang Wang (<b>\* indicates equal contribution</b>). "LanP: Rethinking the Impact of Language Priors in Large Vision-Language Models" [[paper](https://arxiv.org/abs/2502.12359), [code](https://github.com/Wu-Zongyu/LanP), [project page](https://wu-zongyu.github.io/LanP)]
 
 * Junjie Xu, Zongyu Wu, <b>Minhua Lin</b>, Xiang Zhang, Suhang Wang. "LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning" [[paper](https://arxiv.org/pdf/2406.01032)]
 
 ## Conference Papers
 ### 2025
+* <b>Minhua Lin</b>\*, Zhiwei Zhang\*, Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang (<b>\* indicates equal contribution</b>). "Are You Using Reliable Graph Prompts? Trojan Prompt Attacks on Graph Neural Networks" In 31th SIGKDD Conference on Knowledge Discovery and Data Mining <b>(KDD 2025)</b> [[paper](https://arxiv.org/abs/2410.13974), [code]()]
 * <b>Minhua Lin</b>, Enyan Dai, Junjie Xu, Jinyuan Jia, Xiang Zhang, Suhang Wang. "Stealing Training Graphs from Graph Neural Networks" In 31th SIGKDD Conference on Knowledge Discovery and Data Mining <b>(KDD 2025)</b> [[paper](https://arxiv.org/abs/2411.11197), [code](https://github.com/ventr1c/GraphSteal)]
+* Enyan Dai\*, <b>Minhua Lin</b>\*, Suhang Wang (<b>\* indicates equal contribution</b>). "PreGIP: Watermarking the Pretraining of Graph Neural Networks for Deep Intellectual Property Protection" In 31th SIGKDD Conference on Knowledge Discovery and Data Mining <b>(KDD 2025)</b> [[paper](https://arxiv.org/abs/2402.04435), [code]()]
 * Zhiwei Zhang, <b>Minhua Lin</b>, Junjie Xu, Zongyu Wu, Enyan Dai, Suhang Wang. "Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural Networks" In 13th International Conference on Learning Representations <b>(ICLR 2025)</b> [[paper](https://openreview.net/forum?id=trKNi4IUiP&noteId=MxwNrQIDhs)]
 <!-- * Zhengpin Li, <b>Minhua Lin</b>, Jian Wang, Suhang Wang. "Fairness-aware Prompt Tuning for Graph Neural Networks" In Proceedings of the ACM Web Conference 2025  <b>(WWW 2025)</b> [[paper](https://openreview.net/forum?id=5T5lHzF8FM)] -->
 
