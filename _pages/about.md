@@ -12,7 +12,7 @@ I am a third-year PhD student in [the College of Information Sciences and Techno
 ## News
 <!-- ====== -->
 * [2025-05] Two papers are accepted to KDD 2025 (February cycle).
-* [2025-05] One survey paper named ["A Review on Small Language Models in the Era of Large Language Models: Architecture, Capabilities, and Trustworthiness"]() is accepted to KDD 2025 (Lecture-Style Tutorials).
+<!--* [2025-05] One survey paper named ["A Review on Small Language Models in the Era of Large Language Models: Architecture, Capabilities, and Trustworthiness"]() is accepted to KDD 2025 (Lecture-Style Tutorials).-->
 * [2025-02] Check out our [benchmark](https://arxiv.org/abs/2502.12359) about the positive role of language prior in LVLMs.
 * [2025-01] One paper is accepted to ICLR 2025 (Oral).
 * [2025-01] One paper is accepted to WWW 2025.
