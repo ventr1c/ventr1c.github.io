@@ -26,7 +26,11 @@ author_profile: true
 
 * <b>Minhua Lin</b>, Zhengzhang Chen, Yanchi Liu, Xujiang Zhao, Zongyu Wu, Junxiang Wang, Xiang Zhang, Suhang Wang, Haifeng Cheng. "Decoding Time Series with LLMs: A Multi-Agent Framework for Cross-Domain Annotation" [[paper](https://arxiv.org/abs/2410.17462)]
 
+* Bin Ma, Yuyuan Feng, <b>Minhua Lin</b>, Enyan Dai. "How Explanations Leak the Decision Logic: Stealing Graph Neural Networks via Explanation Alignment" [[paper](https://arxiv.org/abs/2506.03087), [code](https://github.com/beanmah/EGSteal)]
+
 * Zongyu Wu\*, Yuwei Niu\*, Hongcheng Gao, <b>Minhua Lin</b>, Zhiwei Zhang, Zhifang Zhang, Qi Shi, Yilong Wang, Sike Fu, Junjie Xu, Junjie Ao, Enyan Dai, Lei Feng, Xiang Zhang, Suhang Wang (<b>\* indicates equal contribution</b>). "LanP: Rethinking the Impact of Language Priors in Large Vision-Language Models" [[paper](https://arxiv.org/abs/2502.12359), [code](https://github.com/Wu-Zongyu/LanP), [project page](https://wu-zongyu.github.io/LanP)]
+
+* Shuo Yan, Yuliang Yan, Bin Ma, Chenao Li, Haochun Tang, Jiahua Lu, <b>Minhua Lin</b>, Yuyuan Feng, Hui Xiong, Enyan Dai. "Protap: A Benchmark for Protein Modeling on Realistic Downstream Applications" [[paper](https://www.arxiv.org/abs/2506.02052), [code](https://github.com/Trust-App-AI-Lab/protap)]
 
 * Junjie Xu, Zongyu Wu, <b>Minhua Lin</b>, Xiang Zhang, Suhang Wang. "LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning" [[paper](https://arxiv.org/pdf/2406.01032)]
 
