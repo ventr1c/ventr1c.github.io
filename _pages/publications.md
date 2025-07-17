@@ -36,10 +36,10 @@ author_profile: true
 
 ## Conference Papers
 ### 2025
-* <b>Minhua Lin</b>\*, Zhiwei Zhang\*, Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang (<b>\* indicates equal contribution</b>). "Are You Using Reliable Graph Prompts? Trojan Prompt Attacks on Graph Neural Networks" In 31th SIGKDD Conference on Knowledge Discovery and Data Mining <b>(KDD 2025)</b> [[paper](https://arxiv.org/abs/2410.13974), [code]()]
+* <b>Minhua Lin</b>\*, Zhiwei Zhang\*, Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang (<b>\* indicates equal contribution</b>). "Are You Using Reliable Graph Prompts? Trojan Prompt Attacks on Graph Neural Networks" In 31th SIGKDD Conference on Knowledge Discovery and Data Mining <b>(KDD 2025)</b> [[paper](https://arxiv.org/abs/2410.13974), [code](https://github.com/ventr1c/TPGA)]
 * <b>Minhua Lin</b>, Enyan Dai, Junjie Xu, Jinyuan Jia, Xiang Zhang, Suhang Wang. "Stealing Training Graphs from Graph Neural Networks" In 31th SIGKDD Conference on Knowledge Discovery and Data Mining <b>(KDD 2025)</b> [[paper](https://arxiv.org/abs/2411.11197), [code](https://github.com/ventr1c/GraphSteal)]
-* Enyan Dai\*, <b>Minhua Lin</b>\*, Suhang Wang (<b>\* indicates equal contribution</b>). "PreGIP: Watermarking the Pretraining of Graph Neural Networks for Deep Intellectual Property Protection" In 31th SIGKDD Conference on Knowledge Discovery and Data Mining <b>(KDD 2025)</b> [[paper](https://arxiv.org/abs/2402.04435), [code]()]
-* Zhiwei Zhang, <b>Minhua Lin</b>, Junjie Xu, Zongyu Wu, Enyan Dai, Suhang Wang. "Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural Networks" In 13th International Conference on Learning Representations <b>(ICLR 2025)</b> [[paper](https://openreview.net/forum?id=trKNi4IUiP&noteId=MxwNrQIDhs)]
+* Enyan Dai\*, <b>Minhua Lin</b>\*, Suhang Wang (<b>\* indicates equal contribution</b>). "PreGIP: Watermarking the Pretraining of Graph Neural Networks for Deep Intellectual Property Protection" In 31th SIGKDD Conference on Knowledge Discovery and Data Mining <b>(KDD 2025)</b> [[paper](https://arxiv.org/abs/2402.04435), [code](https://github.com/ventr1c/PreGIP)]
+* Zhiwei Zhang, <b>Minhua Lin</b>, Junjie Xu, Zongyu Wu, Enyan Dai, Suhang Wang. "Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural Networks" In 13th International Conference on Learning Representations <b>(ICLR 2025)</b> [[paper](https://openreview.net/forum?id=trKNi4IUiP&noteId=MxwNrQIDhs), [code](https://github.com/zzwjames/RIGBD)]
 * Zhengpin Li, <b>Minhua Lin</b>, Jian Wang, Suhang Wang. "Fairness-aware Prompt Tuning for Graph Neural Networks" In Proceedings of the ACM Web Conference 2025  <b>(WWW 2025)</b> [[paper](https://openreview.net/forum?id=5T5lHzF8FM)]
 
 ### 2024
