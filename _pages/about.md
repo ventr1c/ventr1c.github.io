@@ -7,12 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year PhD student in [the College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisors are [Prof. Suhang Wang](https://suhangwang.ist.psu.edu/) and [Prof. Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). I received my bachelor degree of engineering in Computer Science from [Huazhong University of Sciences and Technology](http://english.hust.edu.cn/) in 2021. My research interests lie in large language models, graph learning, trustworthy AI, and their intersections.
+I am a forth-year PhD student in [the College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisors are [Prof. Suhang Wang](https://suhangwang.ist.psu.edu/) and [Prof. Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). I received my bachelor degree of engineering in Computer Science from [Huazhong University of Sciences and Technology](http://english.hust.edu.cn/) in 2021. My research interests lie in large language models, graph learning, trustworthy AI, and their intersections.
 
 ## News
 <!-- ====== -->
+* [2025-08] One paper is accepted to ICDM 2025.
 * [2025-05] Two papers are accepted to KDD 2025 (February cycle).
-<!--* [2025-05] One survey paper named ["A Review on Small Language Models in the Era of Large Language Models: Architecture, Capabilities, and Trustworthiness"]() is accepted to KDD 2025 (Lecture-Style Tutorials).-->
+[2025-05] One paper named ["A Survey on Small Language Models in the Era of Large Language Models: Architecture, Capabilities, and Trustworthiness"](https://dl.acm.org/doi/10.1145/3711896.3736563) is accepted to KDD 2025 (Lecture-Style Tutorials).
 * [2025-02] Check out our [benchmark](https://arxiv.org/abs/2502.12359) about the positive role of language prior in LVLMs.
 * [2025-01] One paper is accepted to ICLR 2025 (Oral).
 * [2025-01] One paper is accepted to WWW 2025.
