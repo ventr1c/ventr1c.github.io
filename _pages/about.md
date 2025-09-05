@@ -26,6 +26,7 @@ I am a forth-year PhD student in [the College of Information Sciences and Techno
 * [2023-01] One paper is accepted to WWW 2023.
 
 ## Honors and Awards
+* KDD Student Travel Award of 2025.
 * IST College Travel Award of 2025.
 * WSDM SIGIR Student Travel Award of 2024.
 * NeurIPS Scholar Award of 2023.
