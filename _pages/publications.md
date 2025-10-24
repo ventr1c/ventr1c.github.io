@@ -18,7 +18,7 @@ author_profile: true
 <!-- ## Selected Publications -->
 <!-- ====== -->
 ## Survey & Tutorials
-* <b>Minhua Lin</b>, Zongyu Wu, Zhichao Xu, Hui Liu, Xianfeng Tang, Qi He, Charu Aggarwal, Hui Liu, Xiang Zhang, Suhang Wang. "A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications" <b>(Preprint)</b> [[paper](https://arxiv.org/abs/2510.16724), [project page]([https://github.com/beanmah/EGSteal](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers))]
+* <b>Minhua Lin</b>, Zongyu Wu, Zhichao Xu, Hui Liu, Xianfeng Tang, Qi He, Charu Aggarwal, Hui Liu, Xiang Zhang, Suhang Wang. "A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications" <b>(Preprint)</b> [[paper](https://arxiv.org/abs/2510.16724), [project page](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers)]
 * Fali Wang, <b>Minhua Lin</b>, Yao Ma, Hui Liu, Xianfeng Tang, Qi He, Jiliang Tang, Jian Pei, Suhang Wang. "A Tutorial on Small Language Models in the Era of Large Language Models: Architecture, Capabilities, and Trustworthiness" <b>(KDD 2025)</b> [[paper](https://dl.acm.org/doi/abs/10.1145/3711896.3736563)]
 * Zhichao Hou, <b>Minhua Lin</b>, MohamadAli Torkamani, Suhang Wang, Xiaorui Liu. "Adversarial Robustness in Graph Neural Networks: Recent Advances and New Frontier" In 11th IEEE International Conference on Data Science and Advanced Analytics <b>(DSAA 2024)</b> [[paper](https://ieeexplore.ieee.org/abstract/document/10722771)]
 
