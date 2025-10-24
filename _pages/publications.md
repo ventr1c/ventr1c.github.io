@@ -17,8 +17,9 @@ author_profile: true
 
 <!-- ## Selected Publications -->
 <!-- ====== -->
-## Tutorials
-* Fali Wang, <b>Minhua Lin</b>, Yao Ma, Hui Liu, Xianfeng Tang, Qi He, Jiliang Tang, Jian Pei, Suhang Wang. "A Tutorial on Small Language Models in the Era of Large Language Models: Architecture, Capabilities, and Trustworthiness" <b>(KDD 2025)</b> [[paper]()]
+## Survey & Tutorials
+* <b>Minhua Lin</b>, Zongyu Wu, Zhichao Xu, Hui Liu, Xianfeng Tang, Qi He, Charu Aggarwal, Hui Liu, Xiang Zhang, Suhang Wang. "A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications" <b>(Preprint)</b> [[paper](https://arxiv.org/abs/2510.16724), [project page]([https://github.com/beanmah/EGSteal](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers))]
+* Fali Wang, <b>Minhua Lin</b>, Yao Ma, Hui Liu, Xianfeng Tang, Qi He, Jiliang Tang, Jian Pei, Suhang Wang. "A Tutorial on Small Language Models in the Era of Large Language Models: Architecture, Capabilities, and Trustworthiness" <b>(KDD 2025)</b> [[paper](https://dl.acm.org/doi/abs/10.1145/3711896.3736563)]
 * Zhichao Hou, <b>Minhua Lin</b>, MohamadAli Torkamani, Suhang Wang, Xiaorui Liu. "Adversarial Robustness in Graph Neural Networks: Recent Advances and New Frontier" In 11th IEEE International Conference on Data Science and Advanced Analytics <b>(DSAA 2024)</b> [[paper](https://ieeexplore.ieee.org/abstract/document/10722771)]
 
 ## Preprints
@@ -32,8 +33,6 @@ author_profile: true
 
 * Shuo Yan, Yuliang Yan, Bin Ma, Chenao Li, Haochun Tang, Jiahua Lu, <b>Minhua Lin</b>, Yuyuan Feng, Hui Xiong, Enyan Dai. "Protap: A Benchmark for Protein Modeling on Realistic Downstream Applications" [[paper](https://www.arxiv.org/abs/2506.02052), [code](https://github.com/Trust-App-AI-Lab/protap)]
 
-* Junjie Xu, Zongyu Wu, <b>Minhua Lin</b>, Xiang Zhang, Suhang Wang. "LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning" [[paper](https://arxiv.org/pdf/2406.01032)]
-
 ## Conference Papers
 ### 2025
 * <b>Minhua Lin</b>\*, Zhiwei Zhang\*, Enyan Dai, Zongyu Wu, Yilong Wang, Xiang Zhang, Suhang Wang (<b>\* indicates equal contribution</b>). "Are You Using Reliable Graph Prompts? Trojan Prompt Attacks on Graph Neural Networks" In 31th SIGKDD Conference on Knowledge Discovery and Data Mining <b>(KDD 2025)</b> [[paper](https://arxiv.org/abs/2410.13974), [code](https://github.com/ventr1c/TPGA)]
@@ -41,7 +40,8 @@ author_profile: true
 * Enyan Dai\*, <b>Minhua Lin</b>\*, Suhang Wang (<b>\* indicates equal contribution</b>). "PreGIP: Watermarking the Pretraining of Graph Neural Networks for Deep Intellectual Property Protection" In 31th SIGKDD Conference on Knowledge Discovery and Data Mining <b>(KDD 2025)</b> [[paper](https://arxiv.org/abs/2402.04435), [code](https://github.com/ventr1c/PreGIP)]
 * Zhiwei Zhang, <b>Minhua Lin</b>, Junjie Xu, Zongyu Wu, Enyan Dai, Suhang Wang. "Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural Networks" In 13th International Conference on Learning Representations <b>(ICLR 2025)</b> [[paper](https://openreview.net/forum?id=trKNi4IUiP&noteId=MxwNrQIDhs), [code](https://github.com/zzwjames/RIGBD)]
 * Zhengpin Li, <b>Minhua Lin</b>, Jian Wang, Suhang Wang. "Fairness-aware Prompt Tuning for Graph Neural Networks" In Proceedings of the ACM Web Conference 2025  <b>(WWW 2025)</b> [[paper](https://openreview.net/forum?id=5T5lHzF8FM)]
-* Quan Li, Wenchao Yu, Suhang Wang, <b>Minhua Lin</b>, Lingwei Chen, Wei Cheng, and Haifeng Chen, "Extreme Event Prediction with Hierarchical Knowledge Distillation and Expert Fusion" In 25th IEEE International Conference on Data Mining <b>(ICDM 2025)</b> [[paper]()]
+* Junjie Xu, Zongyu Wu, <b>Minhua Lin</b>, Xiang Zhang, Suhang Wang. "LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning" In Proceedings of 2025 IEEE International Conference on Big Data <b>(IEEE BigData 2025)</b>[[paper](https://arxiv.org/pdf/2406.01032), [code](https://github.com/junjie-xu/GALLON)]
+* Quan Li, Wenchao Yu, Suhang Wang, <b>Minhua Lin</b>, Lingwei Chen, Wei Cheng, and Haifeng Chen, "Extreme Event Prediction with Hierarchical Knowledge Distillation and Expert Fusion" In 25th IEEE International Conference on Data Mining <b>(ICDM 2025)</b> [[paper](https://arxiv.org/abs/2510.20651)]
 
 ### 2024
 * Binghui Wang\*, <b>Minhua Lin</b>\*, Tianxiang Zhou, Pan Zhou, Ang Li, Meng Pang, Cai Fu, Hai Li, Yiran Chen (<b>\* indicates equal contribution</b>). "Efficient, Direct, and Restricted Black-Box Graph Evasion Attacks to Any-Layer Graph Neural Networks via Influence Function" In 17th ACM International Conference on Web Search and Data Mining <b>(WSDM 2024)</b> [[paper](https://arxiv.org/abs/2009.00203), [code](https://github.com/ventr1c/InfAttack)]
