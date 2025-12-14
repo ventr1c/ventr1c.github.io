@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a forth-year PhD student in [the College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisors are [Prof. Suhang Wang](https://suhangwang.ist.psu.edu/) and [Prof. Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). I received my bachelor degree of engineering in Computer Science from [Huazhong University of Sciences and Technology](http://english.hust.edu.cn/) in 2021. My research interests lie in large language models, graph learning, trustworthy AI, and their intersections.
+I am a fourth-year PhD student in [the College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisors are [Prof. Suhang Wang](https://suhangwang.ist.psu.edu/) and [Prof. Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). I received my bachelor's degree of engineering in Computer Science from [Huazhong University of Sciences and Technology](http://english.hust.edu.cn/) in 2021. My research interests lie in large language models, graph learning, trustworthy AI, and their intersections.
 
 ## News
 <!-- ====== -->
-* [2025-10] Our [survey](https://arxiv.org/abs/2510.16724) about RL-based agentic search is released.
+* [2025-10] Our survey about RL-based agentic search is released. [survey](https://arxiv.org/abs/2510.16724) [repository](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers)
 * [2025-08] One paper is accepted to ICDM 2025.
 * [2025-05] Two papers are accepted to KDD 2025 (February cycle).
 * [2025-05] One paper named ["A Survey on Small Language Models in the Era of Large Language Models: Architecture, Capabilities, and Trustworthiness"](https://dl.acm.org/doi/10.1145/3711896.3736563) is accepted to KDD 2025 (Lecture-Style Tutorials).
@@ -33,7 +33,7 @@ I am a forth-year PhD student in [the College of Information Sciences and Techno
 * NeurIPS Scholar Award of 2023.
 
 ## Service
-**Reviewer & Program Committee**: ICML (2025), WWW (2024, 2025), ICLR (2025), KDD (2024, 2025), NeurIPS (2023, 2024， 2025), AAAI (2026), MM (2024), SIGIR (2024, 2025), PAKDD (2024), WSDM (2023), CIKM (2024, 2023), RecSys (2024, 2023), TKDE (2023), TKDD (2023), ARR
+**Reviewer & Program Committee**: ICML (2025), WWW (2024, 2025), ICLR (2025, 2026), KDD (2024, 2025), NeurIPS (2023, 2024， 2025), AAAI (2026), MM (2024), SIGIR (2024, 2025), PAKDD (2024), WSDM (2023), CIKM (2024, 2023), RecSys (2024, 2023), TKDE (2023), TKDD (2023), ARR
 
 <!-- Preprints
 ====== -->
