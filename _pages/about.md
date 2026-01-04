@@ -11,7 +11,7 @@ I am a fourth-year PhD student in [the College of Information Sciences and Techn
 
 ## News
 <!-- ====== -->
-* [2025-12] Two papers are accepted to EACL 2026.
+* [2026-01] Two papers are accepted to EACL 2026.
 * [2025-10] Our survey about RL-based agentic search is released [[paper]](https://arxiv.org/abs/2510.16724) [[repository]](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers).
 * [2025-08] One paper is accepted to ICDM 2025.
 * [2025-05] Two papers are accepted to KDD 2025 (February cycle).
