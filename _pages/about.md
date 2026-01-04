@@ -12,7 +12,7 @@ I am a fourth-year PhD student in [the College of Information Sciences and Techn
 ## News
 <!-- ====== -->
 * [2026-01] Two papers are accepted to EACL 2026.
-* [2025-10] Our survey about RL-based agentic search is released [[paper]](https://arxiv.org/abs/2510.16724) [[repository]](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers).
+* [2025-10] Our survey named "A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications" is released [[paper]](https://arxiv.org/abs/2510.16724) [[repository]](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers).
 * [2025-08] One paper is accepted to ICDM 2025.
 * [2025-05] Two papers are accepted to KDD 2025 (February cycle).
 * [2025-05] One paper named ["A Survey on Small Language Models in the Era of Large Language Models: Architecture, Capabilities, and Trustworthiness"](https://dl.acm.org/doi/10.1145/3711896.3736563) is accepted to KDD 2025 (Lecture-Style Tutorials).
