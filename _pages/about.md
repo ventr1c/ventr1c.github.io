@@ -11,6 +11,7 @@ I am a fourth-year PhD student in [the College of Information Sciences and Techn
 
 ## News
 <!-- ====== -->
+* [2026-01] Three papers are accepted to ICLR 2026.
 * [2026-01] Two papers are accepted to EACL 2026.
 * [2025-10] Our survey named "A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications" is released [[paper]](https://arxiv.org/abs/2510.16724) [[repository]](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers).
 * [2025-08] One paper is accepted to ICDM 2025.
