@@ -23,6 +23,7 @@ author_profile: true
 * Zhichao Hou, <b>Minhua Lin</b>, MohamadAli Torkamani, Suhang Wang, Xiaorui Liu. "Adversarial Robustness in Graph Neural Networks: Recent Advances and New Frontier" In 11th IEEE International Conference on Data Science and Advanced Analytics <b>(DSAA 2024)</b> [[paper](https://ieeexplore.ieee.org/abstract/document/10722771)]
 
 ## Preprints
+* <b>Minhua Lin</b>, Hanqing Lu, Zhan Shi, Bing He, Rui Mao, Zhiwei Zhang, Zongyu Wu, Xianfeng Tang, Hui Liu, Zhenwei Dai, Xiang Zhang, Suhang Wang, Benoit Dumoulin, Jian Pei. "Position: Agentic Evolution is the Path to Evolving LLMs" [[paper](https://arxiv.org/abs/2602.00359), [code](https://github.com/ventr1c/agentic-evoluiton.git)]
 * <b>Minhua Lin</b>, Hui Liu, Xianfeng Tang, Jingying Zeng, Zhenwei Dai, Chen Luo, Zheng Li, Xiang Zhang, Qi He, Suhang Wang. "How Far are LLMs from Real Search? Rethinking the Complementary Role between Search and Learning" [[paper](https://arxiv.org/abs/2502.18387)]
 
 <!-- * Bin Ma, Yuyuan Feng, <b>Minhua Lin</b>, Enyan Dai. "How Explanations Leak the Decision Logic: Stealing Graph Neural Networks via Explanation Alignment" [[paper](https://arxiv.org/abs/2506.03087), [code](https://github.com/beanmah/EGSteal)] -->
