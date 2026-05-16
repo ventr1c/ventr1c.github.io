@@ -11,6 +11,7 @@ I am a fourth-year PhD student in [the College of Information Sciences and Techn
 
 ## News
 <!-- ====== -->
+* [2026-05] Our position paper named "Position: Agentic Evolution is the Path to Evolving LLMs" is accepted to ACM CAIS Agent Skills 2026 [[paper]](https://arxiv.org/abs/2602.00359) [[code]](https://github.com/A-EVO-Lab/a-evolve).
 * [2026-05] Two papers are accepted to ICML 2026 (main track & position paper track).
 * [2026-04] One paper is accepted to ACL 2026.
 * [2026-01] Three papers are accepted to ICLR 2026.
