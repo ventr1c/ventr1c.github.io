@@ -17,7 +17,7 @@ Alongside this current focus, I have built a sustained research agenda in trustw
 
 ## News
 <!-- ====== -->
-* [2026-05] One paper is accepted to TKDD. 
+* [2026-06] One paper is accepted to TKDD. 
 * [2026-05] Two papers are accepted to KDD 2026 (research track & D&B track).
 * [2026-05] Our position paper named "Position: Agentic Evolution is the Path to Evolving LLMs" is accepted to ACM CAIS Agent Skills 2026 [[paper]](https://arxiv.org/abs/2602.00359) [[code]](https://github.com/A-EVO-Lab/a-evolve).
 * [2026-05] Two papers are accepted to ICML 2026 (main track & position paper track).
