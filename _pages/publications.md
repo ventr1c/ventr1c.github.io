@@ -14,7 +14,9 @@ author_profile: true
 <!-- ## Selected Publications -->
 <!-- ====== -->
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
 
 ## Survey & Tutorials
 * <b>Minhua Lin</b>, Zongyu Wu, Zhichao Xu, Hui Liu, Xianfeng Tang, Qi He, Charu Aggarwal, Hui Liu, Xiang Zhang, Suhang Wang. "A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications" <b>(Preprint)</b> [[paper](https://arxiv.org/abs/2510.16724), [project page](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers)]
