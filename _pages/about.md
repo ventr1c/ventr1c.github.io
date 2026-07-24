@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a fourth-year PhD student in [the College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisors are [Prof. Suhang Wang](https://suhangwang.ist.psu.edu/) and [Prof. Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). I received my bachelor's degree of engineering in Computer Science from [Huazhong University of Sciences and Technology](http://english.hust.edu.cn/) in 2021. 
 
-I aim to build AI systems that can reason, act, and improve themselves. My current research centers on recursive self-improvement (RSI): enabling AI agents to progressively automate and improve how AI itself is built. Specifically, I work on:
+I aim to build AI systems that can reason, act, and improve themselves while remaining trustworthy and under human control. My current research centers on **recursive self-improvement (RSI)**: enabling AI agents to progressively automate and improve how AI itself is built. Specifically, I work on:
 * **Recursive self-improvement of LLM agents**: from evolving agent harnesses, including skills, memory, and context, to automating post-training, with an emphasis on achieving genuine and generalizable capability gains.
 * **Agentic reasoning**: understanding how LLMs reason, search, use tools, collaborate with other agents, and learn from environmental feedback.
 
