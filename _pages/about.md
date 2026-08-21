@@ -17,6 +17,7 @@ Alongside this current focus, I have built a sustained research agenda in trustw
 
 ## News
 <!-- ====== -->
+* [2026-08] Three papers are accepted to EMNLP 2026 (Main). 
 * [2026-08] One paper is accepted to ICDM 2026. 
 * [2026-06] One paper is accepted to TKDD. 
 * [2026-05] Two papers are accepted to KDD 2026 (research track & D&B track).
