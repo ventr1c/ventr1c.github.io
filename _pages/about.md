@@ -114,4 +114,6 @@ My research focuses on **self-improving and trustworthy AI**. I aim to build AI 
 <div style="margin-top: 50px;"></div>
 
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=zUxGgAIvkBYGrseqx5YpoohUQRcYWPzLzUQw5ubd6nY&cmo=6de041&co=77bff2&cmn=c05ee5&ct=ffffff'></script> -->
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=zUxGgAIvkBYGrseqx5YpoohUQRcYWPzLzUQw5ubd6nY&cmo=e04141&co=5ab3f2&cmn=c05ee5&ct=ffffff'></script>
+<div style="max-width:300px">
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=juFiujx3Ttvy05ElI1Ug6b33AKIpoc-sAi1c5sjKkuc&cl=ffffff&w=a"></script>
+</div>
