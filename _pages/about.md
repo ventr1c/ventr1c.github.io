@@ -8,18 +8,26 @@ redirect_from:
   - /about.html
 ---
 <p style="background:#fff4e5;border-left:4px solid #e67e22;padding:10px 14px;">
-<b>I am on the 2026&ndash;2027 job market</b>, seeking tenure-track faculty positions and industry research scientist roles in self-improving and trustworthy AI, starting in 2027. Here is my <a href="/files/MinhuaLin_CV.pdf">CV</a>. Please feel free to reach out at <a href="mailto:minhualin@psu.edu">minhualin@psu.edu</a>.
+📢 <b>On the 2026&ndash;2027 Job Market.</b> I am actively seeking <b>Research/Applied Scientist</b> positions in industry and <b>tenure-track Assistant Professor</b> positions in academia. I welcome conversations and would greatly appreciate any introductions, collaborations, or opportunities. [<a href="/files/MinhuaLin_CV.pdf">CV</a>] [<a href="mailto:minhualin@psu.edu">Email</a>]
 </p>
 
 I am a fifth-year Ph.D. candidate in [the College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/), advised by [Prof. Suhang Wang](https://suhangwang.ist.psu.edu/) and [Prof. Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). I received my B.Eng. in Computer Science from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2021.
 
-My research focuses on **self-improving and trustworthy AI**. I aim to build AI systems that learn from experience and achieve persistent, generalizable improvements, and to ensure that they remain reliable and robust, both in how they act and how they improve. Specifically, I work on:
-* **Recursive self-improvement (RSI)**: how AI can improve AI and, ultimately, its own ability to improve, from refining solutions within a task through test-time compute and environment feedback, to accumulating experience into lasting updates to the agent harness or model weights, to improving how AI systems improve.
-* **Trustworthy AI, from models to self-improvement**: the robustness and privacy of AI models, and the reliability and robustness of the self-improvement process itself.
+## Research Interests
+My research focuses on **self-improving and trustworthy AI**. I aim to build AI systems that learn from experience and achieve persistent, generalizable improvements, and to ensure that they remain reliable and robust, both in how they act and how they improve. My long-term goal is to make AI systems better at improving themselves while keeping them trustworthy and under human control.
+
+**Recursive Self-Improvement (RSI)**: how AI can improve AI and, ultimately, its own ability to improve.
+* **Within-task improvement**, refining solutions through test-time compute scaling and environment feedback: [ICLR 2026](/publications/#pub-toolpoker), [TKDD 2026](/publications/#pub-seal)
+* **Persistent improvement**, turning experience into lasting updates to the agent harness or model weights: [EMNLP 2026](/publications/#pub-memma), [ACM CAIS 2026](/publications/#pub-a-evolve), [arXiv 2026](/publications/#pub-lm2lm)
+* **Recursive improvement**, improving how AI systems improve: [arXiv 2026](/publications/#pub-lm2lm)
+
+**Trustworthy AI: From Models to Self-Improvement**
+* **Model trustworthiness**, robustness and privacy of AI models: [WWW 2023](/publications/#pub-ugba), [NeurIPS 2023](/publications/#pub-res-gcl), [WSDM 2024](/publications/#pub-infattack), [KDD 2025](/publications/#pub-tgpa), [KDD 2025](/publications/#pub-graphsteal), [KDD 2025](/publications/#pub-pregip), [ICDM 2026](/publications/#pub-stag)
+* **Self-improvement trustworthiness**, reliability and robustness of the self-improvement process: [EMNLP 2026](/publications/#pub-harness), [Preprint](/publications/#pub-badevolve)
 
 ## News
 <!-- ====== -->
-* [2026-11] I am on the job market for faculty and industry research positions. Here is my [CV](/files/MinhuaLin_CV.pdf).
+* [2026-11] I am on the 2026&ndash;2027 job market for research/applied scientist and tenure-track faculty positions. Here is my [CV](/files/MinhuaLin_CV.pdf).
 * [2026-10] Our paper "Language Models Learn to Improve Language Models" is released [[paper]](https://arxiv.org/abs/2610.23344).
 * [2026-10] Our paper "BadEvolve: Making Self-Evolving Agents Backdoor Themselves via Failure-Aware Task Poisoning" is released [[paper]](/files/BadEvolve_Preprint.pdf).
 * [2026-08] Three papers are accepted to EMNLP 2026 (Main). 
