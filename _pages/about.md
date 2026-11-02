@@ -103,6 +103,7 @@ My research focuses on **self-improving and trustworthy AI**. I aim to build AI 
 * NeurIPS Scholar Award (2023)
 
 ## Service
+* **Organizing Committee**: Social Media / Publicity Chair, [KDD 2027](https://kdd2027.kdd.org/acm-kdd-2027-organizing-committee/)
 * **Program Committee Member**: KDD (2024, 2025, 2026, 2027), AAAI (2026, 2027)
 * **Reviewer**: ICML (2025, 2026), ICLR (2025, 2026, 2027), NeurIPS (2023, 2024, 2025, 2026), ACL ARR (2024, 2025, 2026), WWW (2024, 2025, 2027), SIGIR (2024, 2025), CIKM (2023, 2024), RecSys (2023, 2024), WSDM (2023), MM (2024), PAKDD (2024), TKDE, TKDD, Neurocomputing, Neural Networks, DMLR
 
