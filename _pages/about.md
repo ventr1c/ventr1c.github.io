@@ -10,7 +10,7 @@ redirect_from:
 I am a fifth-year Ph.D. candidate in [the College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/), advised by [Prof. Suhang Wang](https://suhangwang.ist.psu.edu/) and [Prof. Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). I received my B.Eng. in Computer Science from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2021.
 
 <p style="background:#fff4e5;border-left:4px solid #e67e22;padding:10px 14px;">
-📢 <b>On the 2026&ndash;2027 Job Market.</b> I am actively seeking <b>Research/Applied Scientist</b> positions in industry and <b>tenure-track Assistant Professor</b> positions in academia. I welcome conversations and would greatly appreciate any introductions, collaborations, or opportunities. [<a href="mailto:minhualin@psu.edu">Email</a>]
+📢 <b>On the 2026&ndash;2027 Job Market.</b> I am actively seeking <b>Research/Applied Scientist</b> positions in industry and <b>tenure-track Assistant Professor</b> positions in academia. I welcome conversations and would greatly appreciate any introductions, collaborations, or opportunities. Email: minhualin [at] psu [dot] edu
 </p>
 
 ## Research Interests
