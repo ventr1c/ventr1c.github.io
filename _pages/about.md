@@ -7,18 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fourth-year PhD student in [the College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisors are [Prof. Suhang Wang](https://suhangwang.ist.psu.edu/) and [Prof. Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). I received my bachelor's degree of engineering in Computer Science from [Huazhong University of Sciences and Technology](http://english.hust.edu.cn/) in 2021. 
+<p style="background:#fff4e5;border-left:4px solid #e67e22;padding:10px 14px;">
+<b>I am on the 2026&ndash;2027 job market</b>, seeking tenure-track faculty positions and industry research scientist roles in self-improving and trustworthy AI, starting in 2027. Here is my <a href="/files/MinhuaLin_CV.pdf">CV</a>. Please feel free to reach out at <a href="mailto:minhualin@psu.edu">minhualin@psu.edu</a>.
+</p>
 
-I aim to build AI systems that can reason, act, and improve themselves while remaining trustworthy and under human control. My current research centers on **recursive self-improvement (RSI)**: enabling AI agents to progressively automate and improve how AI itself is built. Specifically, I work on:
-* **Recursive self-improvement of LLM agents**: from evolving agent harnesses, including skills, memory, and context, to automating post-training, with an emphasis on achieving genuine and generalizable capability gains.
-* **Agentic reasoning**: understanding how LLMs reason, search, use tools, collaborate with other agents, and learn from environmental feedback.
+I am a fifth-year Ph.D. candidate in [the College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/), advised by [Prof. Suhang Wang](https://suhangwang.ist.psu.edu/) and [Prof. Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). I received my B.Eng. in Computer Science from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2021.
 
-Alongside this current focus, I have built a sustained research agenda in trustworthy graph learning, with a focus on robustness and privacy.
+My research focuses on **self-improving and trustworthy AI**. I aim to build AI systems that learn from experience and achieve persistent, generalizable improvements, and to ensure that they remain reliable and robust, both in how they act and how they improve. Specifically, I work on:
+* **Recursive self-improvement (RSI)**: how AI can improve AI and, ultimately, its own ability to improve, from refining solutions within a task through test-time compute and environment feedback, to accumulating experience into lasting updates to the agent harness or model weights, to improving how AI systems improve.
+* **Trustworthy AI, from models to self-improvement**: the robustness and privacy of AI models, and the reliability and robustness of the self-improvement process itself.
 
 ## News
 <!-- ====== -->
+* [2026-11] I am on the job market for faculty and industry research positions. Here is my [CV](/files/MinhuaLin_CV.pdf).
+* [2026-10] Our paper "Language Models Learn to Improve Language Models" is released [[paper]](https://arxiv.org/abs/2610.23344).
+* [2026-10] Our paper "BadEvolve: Making Self-Evolving Agents Backdoor Themselves via Failure-Aware Task Poisoning" is released [[paper]](/files/BadEvolve_Preprint.pdf).
 * [2026-08] Three papers are accepted to EMNLP 2026 (Main). 
 * [2026-08] One paper is accepted to ICDM 2026. 
+* [2026-07] Our paper "Harness Updating Is Not Harness Benefit" (now in EMNLP 2026) is featured in DAIR.AI's [Top AI Papers of the Week](https://x.com/dair_ai/article/2063644231030214958) and discussed in [Lilian Weng's blog](https://lilianweng.github.io/posts/2026-07-04-harness/).
 * [2026-06] One paper is accepted to TKDD. 
 * [2026-05] Two papers are accepted to KDD 2026 (research track & D&B track).
 * [2026-05] Our position paper named "Position: Agentic Evolution is the Path to Evolving LLMs" is accepted to ACM CAIS Agent Skills 2026 [[paper]](https://arxiv.org/abs/2602.00359) [[code]](https://github.com/A-EVO-Lab/a-evolve).
@@ -42,13 +48,15 @@ Alongside this current focus, I have built a sustained research agenda in trustw
 * [2023-01] One paper is accepted to WWW 2023.
 
 ## Honors and Awards
-* KDD Student Travel Award of 2025.
-* IST College Travel Award of 2025.
-* WSDM SIGIR Student Travel Award of 2024.
-* NeurIPS Scholar Award of 2023.
+* ICDM Student Travel Award (2026)
+* IST College Travel Award (2025, 2026)
+* KDD Student Travel Award (2025)
+* SIGIR Student Travel Award for WSDM (2024)
+* NeurIPS Scholar Award (2023)
 
 ## Service
-**Reviewer & Program Committee**: ICML (2025), WWW (2024, 2025), ICLR (2025, 2026), KDD (2024, 2025), NeurIPS (2023, 2024， 2025), AAAI (2026), MM (2024), SIGIR (2024, 2025), PAKDD (2024), WSDM (2023), CIKM (2024, 2023), RecSys (2024, 2023), TKDE (2023), TKDD (2023), ARR
+* **Program Committee Member**: KDD (2024, 2025, 2026, 2027), AAAI (2026, 2027)
+* **Reviewer**: ICML (2025, 2026), ICLR (2025, 2026, 2027), NeurIPS (2023, 2024, 2025, 2026), ACL ARR (2024, 2025, 2026), WWW (2024, 2025, 2027), SIGIR (2024, 2025), CIKM (2023, 2024), RecSys (2023, 2024), WSDM (2023), MM (2024), PAKDD (2024), TKDE, TKDD, Neurocomputing, Neural Networks, DMLR
 
 <!-- Preprints
 ====== -->
