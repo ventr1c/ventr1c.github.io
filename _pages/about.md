@@ -28,9 +28,6 @@ My research focuses on **self-improving and trustworthy AI**. I aim to build AI 
 ## News
 <div id="news-box" markdown="1" style="max-height:360px;overflow-y:auto;padding-right:8px;border-bottom:1px solid #eee">
 <!-- ====== -->
-* [2026-11] I am on the 2026&ndash;2027 job market for research/applied scientist and tenure-track faculty positions.
-* [2026-10] Our paper "Language Models Learn to Improve Language Models" is released [[paper]](https://arxiv.org/abs/2610.23344).
-* [2026-10] Our paper "BadEvolve: Making Self-Evolving Agents Backdoor Themselves via Failure-Aware Task Poisoning" is released [[paper]](/files/BadEvolve_Preprint.pdf).
 * [2026-08] Three papers are accepted to EMNLP 2026 (Main). 
 * [2026-08] One paper is accepted to ICDM 2026. 
 * [2026-07] Our paper "Harness Updating Is Not Harness Benefit" (now in EMNLP 2026) is featured in DAIR.AI's [Top AI Papers of the Week](https://x.com/dair_ai/article/2063644231030214958) and discussed in [Lilian Weng's blog](https://lilianweng.github.io/posts/2026-07-04-harness/).
