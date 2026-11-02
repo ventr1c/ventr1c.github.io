@@ -17,13 +17,13 @@ I am a fifth-year Ph.D. candidate in [the College of Information Sciences and Te
 My research focuses on **self-improving and trustworthy AI**. I aim to build AI systems that learn from experience and achieve persistent, generalizable improvements, and to ensure that they remain reliable and robust, both in how they act and how they improve. My long-term goal is to make AI systems better at improving themselves while keeping them trustworthy and under human control.
 
 **Recursive Self-Improvement (RSI)**: how AI can improve AI and, ultimately, its own ability to improve.
-* **Within-task improvement**, refining solutions through test-time compute scaling and environment feedback: [ICLR 2026](/publications/#pub-toolpoker), [TKDD 2026](/publications/#pub-seal)
-* **Persistent improvement**, turning experience into lasting updates to the agent harness or model weights: [EMNLP 2026](/publications/#pub-memma), [ACM CAIS 2026](/publications/#pub-a-evolve), [Preprint](/publications/#pub-lm2lm)
-* **Recursive improvement**, improving how AI systems improve: [Preprint](/publications/#pub-lm2lm)
+* **Within-task improvement**, refining solutions through test-time compute scaling and environment feedback: [ToolPoker (ICLR 2026)](/publications/#pub-toolpoker), [SeaL (TKDD 2026)](/publications/#pub-seal)
+* **Persistent improvement**, turning experience into lasting updates to the agent harness or model weights: [MemMA (EMNLP 2026)](/publications/#pub-memma), [A-Evolve (ACM CAIS 2026)](/publications/#pub-a-evolve), [LM2LM](/publications/#pub-lm2lm)
+* **Recursive improvement**, improving how AI systems improve: [LM2LM](/publications/#pub-lm2lm)
 
 **Trustworthy AI: From Models to Self-Improvement**
-* **Model trustworthiness**, robustness and privacy of AI models: [WWW 2023](/publications/#pub-ugba), [NeurIPS 2023](/publications/#pub-res-gcl), [WSDM 2024](/publications/#pub-infattack), [KDD 2025](/publications/#pub-tgpa), [KDD 2025](/publications/#pub-graphsteal), [KDD 2025](/publications/#pub-pregip), [ICDM 2026](/publications/#pub-stag)
-* **Self-improvement trustworthiness**, reliability and robustness of the self-improvement process: [EMNLP 2026](/publications/#pub-harness), [Preprint](/publications/#pub-badevolve)
+* **Model trustworthiness**, robustness and privacy of AI models: [UGBA (WWW 2023)](/publications/#pub-ugba), [RES-GCL (NeurIPS 2023)](/publications/#pub-res-gcl), [InfAttack (WSDM 2024)](/publications/#pub-infattack), [TGPA (KDD 2025)](/publications/#pub-tgpa), [GraphSteal (KDD 2025)](/publications/#pub-graphsteal), [PreGIP (KDD 2025)](/publications/#pub-pregip), [STAG (ICDM 2026)](/publications/#pub-stag)
+* **Self-improvement trustworthiness**, reliability and robustness of the self-improvement process: [Harness Updating ≠ Benefit (EMNLP 2026)](/publications/#pub-harness), [BadEvolve](/publications/#pub-badevolve)
 
 ## News
 <div id="news-box" markdown="1" style="max-height:360px;overflow-y:auto;padding-right:8px;border-bottom:1px solid #eee">
