@@ -23,7 +23,7 @@ My research focuses on **self-improving and trustworthy AI**. I aim to build AI 
 
 **Trustworthy AI: From Models to Self-Improvement**
 * **Model trustworthiness**, robustness and privacy of AI models: [UGBA (WWW 2023)](/publications/#pub-ugba), [RES-GCL (NeurIPS 2023)](/publications/#pub-res-gcl), [InfAttack (WSDM 2024)](/publications/#pub-infattack), [TGPA (KDD 2025)](/publications/#pub-tgpa), [GraphSteal (KDD 2025)](/publications/#pub-graphsteal), [PreGIP (KDD 2025)](/publications/#pub-pregip), [STAG (ICDM 2026)](/publications/#pub-stag)
-* **Self-improvement trustworthiness**, the reliability [Harness Updating ≠ Benefit (EMNLP 2026)](/publications/#pub-harness) and robustness [BadEvolve](/publications/#pub-badevolve) of the self-improvement process
+* **Self-improvement trustworthiness**, reliability and robustness of the self-improvement process: [Harness Updating ≠ Benefit (EMNLP 2026)](/publications/#pub-harness), [BadEvolve](/publications/#pub-badevolve)
 
 ## News
 <div id="news-box" markdown="1" style="max-height:360px;overflow-y:auto;padding-right:8px;border-bottom:1px solid #eee">
