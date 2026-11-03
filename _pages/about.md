@@ -58,10 +58,10 @@ My research focuses on **self-improving and trustworthy AI**. I aim to build AI 
 ## Selected Publications
 <style>
 .sp-intro{color:#555;font-size:0.92em;margin-bottom:1em}
-.sp-item{display:flex;gap:22px;padding:18px 0;border-bottom:1px solid #e8e8e8;align-items:flex-start}
-.sp-fig{position:relative;flex:0 0 240px;width:240px;border:1px solid #e3e3e3;border-radius:4px;background:#fff;overflow:hidden}
-.sp-fig img{display:block;width:100%;height:150px;object-fit:contain;padding:6px;box-sizing:border-box}
-.sp-fig .sp-noimg{height:150px;display:flex;align-items:center;justify-content:center;color:#8a8a8a;font-size:0.8em;padding:0 14px;text-align:center;background:#f6f8fb}
+.sp-item{display:flex;gap:18px;padding:14px 0;border-bottom:1px solid #e8e8e8;align-items:flex-start}
+.sp-fig{position:relative;flex:0 0 210px;width:210px;border:1px solid #e3e3e3;border-radius:4px;background:#fff;overflow:hidden}
+.sp-fig img{display:block;width:100%;height:128px;object-fit:contain;padding:6px;box-sizing:border-box}
+.sp-fig .sp-noimg{height:128px;display:flex;align-items:center;justify-content:center;color:#8a8a8a;font-size:0.8em;padding:0 14px;text-align:center;background:#f6f8fb}
 .sp-badge{position:absolute;top:0;left:0;background:#1f3a8a;color:#fff;font-size:0.7em;font-weight:700;padding:2px 8px;border-bottom-right-radius:4px}
 .sp-body{flex:1;min-width:0}
 .sp-title{font-weight:700;font-size:1em;line-height:1.35}
