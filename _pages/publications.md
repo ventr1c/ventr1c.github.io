@@ -46,6 +46,7 @@ author_profile: true
 
 <ul class="pub-list">
 <li id="pub-evo-harness"><span class="pub-venue">EMNLP 2026</span><span class="pub-title">Evo-Harness: Context-to-Harness Skill Compilation for Self-Evolving Agents</span><br>Tianxin Wei, Zhan Shi, <b>Minhua Lin</b>, Bing He, Zewen Liu, Yisi Sang, Yuanchen Bei, Xuying Ning, Jiaru Zou, Ting-Wei Li, Xiao Lin, Yanjun Zhao, Chi Wang, Benoit Dumoulin, Dakuo Wang, Jingrui He, Hanqing Lu</li>
+<li id="pub-auto-harness"><span class="pub-venue">CLEA@NeurIPS 2026</span><span class="pub-title">Adaptive Auto-Harness: Sustained Self-Improvement for Agentic System Deployment on Open-Ended Task Streams</span><br>Zewen Liu, Zhan Shi, Yisi Sang, Bing He, <b>Minhua Lin</b>, Tianxin Wei, Dakuo Wang, Benoit Dumoulin, Wei Jin, Hanqing Lu<br>[<a href="https://arxiv.org/abs/2606.01770">paper</a>]</li>
 <li id="pub-cimia"><span class="pub-venue">EACL 2026 Oral</span><span class="pub-title">Image Corruption-Inspired Membership Inference Attacks against Large Vision-Language Models</span><br>Zongyu Wu, <b>Minhua Lin</b>, Zhiwei Zhang, Fali Wang, Xianren Zhang, Xiang Zhang, Suhang Wang<br>[<a href="https://arxiv.org/abs/2506.12340">paper</a>]</li>
 <li id="pub-egsteal"><span class="pub-venue">KDD 2026</span><span class="pub-title">Do Explanations Increase the Risk of Decision Logic Leakage? Explanation-Guided Stealing of Graph Models</span><br>Bin Ma, Yuyuan Feng, <b>Minhua Lin</b>, Enyan Dai<br>[<a href="https://arxiv.org/abs/2506.03087">paper</a>] [<a href="https://github.com/beanmah/EGSteal">code</a>]</li>
 <li id="pub-protap"><span class="pub-venue">KDD 2026 D&B Track</span><span class="pub-title">General Protein Pretraining or Domain-Specific Designs? Benchmarking Protein Modeling on Realistic Applications</span><br>Shuo Yan, Yuliang Yan, Bin Ma, Chenao Li, Haochun Tang, Jiahua Lu, <b>Minhua Lin</b>, Yuyuan Feng, Hui Xiong, Enyan Dai<br>[<a href="https://arxiv.org/abs/2506.02052">paper</a>] [<a href="https://github.com/Trust-App-AI-Lab/protap">code</a>]</li>
@@ -64,7 +65,6 @@ author_profile: true
 ## Other Preprints
 
 <ul class="pub-list">
-<li id="pub-auto-harness"><span class="pub-venue">arXiv:2606.01770</span><span class="pub-title">Adaptive Auto-Harness: Sustained Self-Improvement for Agentic System Deployment on Open-Ended Task Streams</span><br>Zewen Liu, Zhan Shi, Yisi Sang, Bing He, <b>Minhua Lin</b>, Tianxin Wei, Dakuo Wang, Benoit Dumoulin, Wei Jin, Hanqing Lu<br>[<a href="https://arxiv.org/abs/2606.01770">paper</a>]</li>
 <li id="pub-lanphal"><span class="pub-venue">arXiv:2502.12359</span><span class="pub-title">LanPHal: Rethinking the Impact of Language Priors on Hallucinations in Large Vision-Language Models</span><br>Zongyu Wu<sup>*</sup>, Yuwei Niu<sup>*</sup>, Hongcheng Gao, <b>Minhua Lin</b>, Zhiwei Zhang, Zhifang Zhang, Yilong Wang, Sike Fu, Junjie Xu, Qi Shi, Junjie Ao, Enyan Dai, Lei Feng, Xiang Zhang, Suhang Wang<br>[<a href="https://arxiv.org/abs/2502.12359">paper</a>] [<a href="https://github.com/Wu-Zongyu/LanP">code</a>] [<a href="https://wu-zongyu.github.io/LanP">project page</a>]</li>
 </ul>
 
