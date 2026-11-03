@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Minhua Lin's homepage"
+masthead_title           : "Homepage"
 title_separator          : "-"
 name                     : &name "Minhua Lin"
 description              : &description "Ph.D. Candidate at IST@Penn State"
