@@ -30,7 +30,7 @@ My research focuses on **self-improving and trustworthy AI**. I aim to build AI 
 <!-- ====== -->
 * [2026-08] Three papers are accepted to EMNLP 2026 (Main). 
 * [2026-08] One paper is accepted to ICDM 2026. 
-* [2026-07] Our paper "Harness Updating Is Not Harness Benefit" (now in EMNLP 2026) is featured in DAIR.AI's [Top AI Papers of the Week](https://x.com/dair_ai/article/2063644231030214958) and discussed in [Lilian Weng's blog](https://lilianweng.github.io/posts/2026-07-04-harness/).
+* [2026-07] Our paper "Harness Updating Is Not Harness Benefit" (now in EMNLP 2026) is featured in [Lilian Weng's blog](https://lilianweng.github.io/posts/2026-07-04-harness/) and DAIR.AI's [Top AI Papers of the Week](https://x.com/dair_ai/article/2063644231030214958).
 * [2026-06] One paper is accepted to TKDD. 
 * [2026-05] Two papers are accepted to KDD 2026 (research track & D&B track).
 * [2026-05] Our position paper named "Position: Agentic Evolution is the Path to Evolving LLMs" is accepted to ACM CAIS Agent Skills 2026 [[paper]](https://arxiv.org/abs/2602.00359) [[code]](https://github.com/A-EVO-Lab/a-evolve).
